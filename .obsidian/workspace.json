@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Collaboraters/Danny Hatcher.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Collaboraters/Danny Hatcher.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Collaboraters/Danny Hatcher.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Collaboraters/Danny Hatcher.md"
+                "file": "README.md"
               }
             }
           }
@@ -142,7 +142,7 @@
       {
         "id": "5838573541c267ea",
         "type": "tabs",
-        "dimension": 60.85343228200371,
+        "dimension": 60.8534322820037,
         "children": [
           {
             "id": "e799f8f6053de02a",
@@ -160,13 +160,13 @@
   },
   "active": "dac899b3e2a783e1",
   "lastOpenFiles": [
-    "README.md",
-    "Main Collaboraters/New Person.md",
-    "Main Collaboraters/Danny Hatcher.md",
-    "START HERE.md",
     "Main Collaboraters/Joel Anderson.md",
-    "esdit.nl.md",
+    "README.md",
+    "Main Collaboraters/Danny Hatcher.md",
     "Templates/New Person Template.md",
+    "Main Collaboraters/New Person.md",
+    "START HERE.md",
+    "esdit.nl.md",
     "People/New Person.md",
     "People/Bob.md",
     "New Person.md"

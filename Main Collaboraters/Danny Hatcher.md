@@ -16,4 +16,5 @@ Do you need sync? -> yes for quicker working...
 - [ ] How does dataview interact with collab users? #question  
 - [ ] What happens with hotkeys/settings/plugins for the individuals vaults? #question ^9q9hhm
 	- Answer: ![[Joel Anderson#^vxyjo9]]
-- [ ] can they use syn across devices with this vault? #question 
+- [ ] can they use sync across devices with this vault? #question 
+- [ ]  Need some guidelines/best practices...
