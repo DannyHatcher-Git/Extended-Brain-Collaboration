@@ -7,7 +7,8 @@
 
 # Questions
 
-- [ ] Can people join a collab vault without paying for sync themselves? #question
+- [x] Can people join a collab vault without paying for sync themselves? #question ✅ 2022-10-21
+	- Not at the moment
 - [ ] What happens to the sync log with multiple people in the vault? #question 
 - [ ] Live sync isn't great but what about working on other pages? #question 
 - [ ] How does dataview interact with collab users? #question 

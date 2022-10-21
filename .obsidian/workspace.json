@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Danny Hatcher.md",
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Danny Hatcher.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Danny Hatcher.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Danny Hatcher.md"
+                "file": "START HERE.md"
               }
             }
           }
@@ -138,10 +138,10 @@
   },
   "active": "dac899b3e2a783e1",
   "lastOpenFiles": [
+    "People/Danny Hatcher.md",
     "Templates/New Person Template.md",
     "START HERE.md",
     "People/New Person.md",
-    "People/Danny Hatcher.md",
     "People/Bob.md",
     "New Person.md",
     "Home.md"
