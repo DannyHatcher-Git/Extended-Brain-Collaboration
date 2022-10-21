@@ -5,10 +5,12 @@
 Obsidian Git for me -> sync to repo
 Do you need sync? -> yes for quicker working...
 
+# Notes
 
+[KasperZutterman/Second-Brain: A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱 (github.com)](https://github.com/KasperZutterman/Second-Brain)
 
 # Questions
-
+- [ ] best place to communicate
 - [x] Can people join a collab vault without paying for sync themselves? #question ✅ 2022-10-21
 	- Not at the moment
 - [ ] What happens to the sync log with multiple people in the vault? #question 

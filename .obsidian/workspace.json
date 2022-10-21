@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Main Collaboraters/Danny Hatcher.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Main Collaboraters/Danny Hatcher.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Main Collaboraters/Danny Hatcher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Main Collaboraters/Danny Hatcher.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "dac899b3e2a783e1",
   "lastOpenFiles": [
-    "Main Collaboraters/Joel Anderson.md",
     "README.md",
+    "Main Collaboraters/Joel Anderson.md",
     "Main Collaboraters/Danny Hatcher.md",
     "Templates/New Person Template.md",
     "Main Collaboraters/New Person.md",

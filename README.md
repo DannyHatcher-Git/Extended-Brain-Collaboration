@@ -8,7 +8,7 @@ This uses the collaborative sync feature, and the Obsidian Git plugin.
 
 # Contributing
 
-Reach out to Danny Hatcher if you have a sync account, so you can be added to the vault.
+Reach out to [Danny Hatcher](https://twitter.com/DannyHatcher) if you have a sync account, so you can be added to the vault.
 
 Each contributer can create a page for their own notes and doodles for working.
 
