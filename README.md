@@ -10,7 +10,7 @@ This vault is to experiment with doing collaborative research in an Obsidian vau
 
 ```button
 name Push to create a Personal Page
-type note(People/New Person) template
+type note(Main Collaboraters/New Person) template
 action New Person Template
 ```
 

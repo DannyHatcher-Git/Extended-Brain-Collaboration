@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Main Collaboraters/Danny Hatcher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2965e675258b19ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Collaboraters/Danny Hatcher.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Main Collaboraters/Danny Hatcher.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Main Collaboraters/Danny Hatcher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Main Collaboraters/Danny Hatcher.md"
               }
             }
           }
@@ -158,17 +171,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dac899b3e2a783e1",
+  "active": "93bcd7ed3b15c205",
   "lastOpenFiles": [
-    "START HERE.md",
     "README.md",
-    "People/Danny Hatcher.md",
-    "People/Joel Anderson.md",
+    "Main Collaboraters/New Person.md",
+    "Main Collaboraters/Danny Hatcher.md",
+    "START HERE.md",
+    "Main Collaboraters/Joel Anderson.md",
     "esdit.nl.md",
     "Templates/New Person Template.md",
     "People/New Person.md",
     "People/Bob.md",
-    "New Person.md",
-    "Home.md"
+    "New Person.md"
   ]
 }

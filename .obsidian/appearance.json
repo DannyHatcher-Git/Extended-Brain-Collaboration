@@ -3,5 +3,8 @@
   "baseFontSize": 20,
   "enabledCssSnippets": [
     "snippet"
-  ]
+  ],
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Inter"
 }

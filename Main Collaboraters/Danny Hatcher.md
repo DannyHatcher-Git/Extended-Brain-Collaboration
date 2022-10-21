@@ -2,6 +2,8 @@
 > [!NOTE] Information
 > Hi 👋 I started using Obsidian January 2021 and am an user in my own research.
 
+Obsidian Git for me -> sync to repo
+Do you need sync? -> yes for quicker working...
 
 
 
