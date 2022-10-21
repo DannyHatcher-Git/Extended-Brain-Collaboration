@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Danny Hatcher.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Danny Hatcher.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Danny Hatcher.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Danny Hatcher.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,9 +160,10 @@
   },
   "active": "dac899b3e2a783e1",
   "lastOpenFiles": [
-    "People/Joel Anderson.md",
     "START HERE.md",
+    "README.md",
     "People/Danny Hatcher.md",
+    "People/Joel Anderson.md",
     "esdit.nl.md",
     "Templates/New Person Template.md",
     "People/New Person.md",
