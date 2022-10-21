@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Joel Anderson.md",
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,6 +66,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "e253b73d8284d8b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b59f55865b3e5d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,8 +102,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Joel Anderson.md",
-                "collapseAll": false,
+                "file": "START HERE.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,20 +119,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Joel Anderson.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5b59f55865b3e5d1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -125,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Joel Anderson.md"
+                "file": "START HERE.md"
               }
             }
           }
@@ -133,14 +139,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "dac899b3e2a783e1",
   "lastOpenFiles": [
-    "esdit.nl.md",
-    "People/Joel Anderson.md",
     "People/Danny Hatcher.md",
+    "People/Joel Anderson.md",
+    "esdit.nl.md",
     "START HERE.md",
     "Templates/New Person Template.md",
     "People/New Person.md",

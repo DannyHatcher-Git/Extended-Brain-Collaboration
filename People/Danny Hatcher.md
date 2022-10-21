@@ -1,6 +1,6 @@
 
 > [!NOTE] Information
-> Hi 👋 
+> Hi 👋 I started using Obsidian January 2021 and am an user in my own research.
 
 
 
