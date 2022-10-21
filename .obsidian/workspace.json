@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
+                "file": "People/Joel Anderson.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#answer/JoelAnderson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "People/Joel Anderson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START HERE.md",
+                "file": "People/Joel Anderson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "People/Joel Anderson.md"
               }
             }
           }
@@ -138,9 +138,11 @@
   },
   "active": "dac899b3e2a783e1",
   "lastOpenFiles": [
+    "esdit.nl.md",
+    "People/Joel Anderson.md",
     "People/Danny Hatcher.md",
-    "Templates/New Person Template.md",
     "START HERE.md",
+    "Templates/New Person Template.md",
     "People/New Person.md",
     "People/Bob.md",
     "New Person.md",
