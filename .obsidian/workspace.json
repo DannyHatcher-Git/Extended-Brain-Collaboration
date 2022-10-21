@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
+                "file": "People/Danny Hatcher.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,6 +95,7 @@
       {
         "id": "63cb6213d1f69416",
         "type": "tabs",
+        "dimension": 39.14656771799629,
         "children": [
           {
             "id": "f46579aa29ef1b28",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "People/Danny Hatcher.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START HERE.md",
+                "file": "People/Danny Hatcher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,8 +132,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "People/Danny Hatcher.md"
               }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5838573541c267ea",
+        "type": "tabs",
+        "dimension": 60.85343228200371,
+        "children": [
+          {
+            "id": "e799f8f6053de02a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ]
@@ -143,10 +160,10 @@
   },
   "active": "dac899b3e2a783e1",
   "lastOpenFiles": [
-    "People/Danny Hatcher.md",
     "People/Joel Anderson.md",
-    "esdit.nl.md",
     "START HERE.md",
+    "People/Danny Hatcher.md",
+    "esdit.nl.md",
     "Templates/New Person Template.md",
     "People/New Person.md",
     "People/Bob.md",
