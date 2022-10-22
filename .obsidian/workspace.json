@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "59fd221ba970ea6f",
@@ -146,15 +145,15 @@
   },
   "active": "dac899b3e2a783e1",
   "lastOpenFiles": [
-    "Main Collaboraters/Joel Anderson.md",
+    "Main Collaboraters/Jonathan Stewart.md",
     "README.md",
+    "Main Collaboraters/New Person.md",
+    "Main Collaboraters/Joel Anderson.md",
     "Main Collaboraters/Danny Hatcher.md",
     "Templates/New Person Template.md",
-    "Main Collaboraters/New Person.md",
     "START HERE.md",
     "esdit.nl.md",
     "People/New Person.md",
-    "People/Bob.md",
-    "New Person.md"
+    "People/Bob.md"
   ]
 }
