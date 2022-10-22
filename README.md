@@ -10,6 +10,8 @@ This uses the collaborative sync feature, and the Obsidian Git plugin.
 
 Reach out to [Danny Hatcher](https://twitter.com/DannyHatcher) if you have a sync account, so you can be added to the vault.
 
+Please join the [Extended Brain Server](https://discord.gg/KqMVXkwSfx) to discuss topics and ways to move forwards.
+
 Each contributer can create a page for their own notes and doodles for working.
 
 ```button

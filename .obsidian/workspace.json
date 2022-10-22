@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58c838a774f9f223",
+        "id": "884f3ce20fd46939",
         "type": "tabs",
         "children": [
           {
-            "id": "dac899b3e2a783e1",
+            "id": "e9cac330ff770dbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,20 +140,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "dac899b3e2a783e1",
+  "active": "e9cac330ff770dbc",
   "lastOpenFiles": [
-    "Main Collaboraters/Danny Hatcher.md",
-    "Main Collaboraters/Sarah Bentley.md",
+    "Notes/Personal Knowledge Management.md",
     "Main Collaboraters/Joel Anderson.md",
     "Main Collaboraters/Jonathan Stewart.md",
-    "README.md",
-    "Notes/RQ What makes contributing to a collaborative vault worth the effort¿.md",
-    "Notes/Collaborative vaults are best built around research questions.md",
+    "Main Collaboraters/Sarah Bentley.md",
+    "Main Collaboraters/William Deal.md",
     "Notes/Chat for discussing how to use this vault.md",
-    "Main Collaboraters/New Person.md",
-    "Templates/New Person Template.md"
+    "Notes/Collaborative vaults are best built around research questions.md",
+    "Templates/Article Template.md",
+    "Notes/RQ What makes contributing to a collaborative vault worth the effort¿.md",
+    "README.md"
   ]
 }
