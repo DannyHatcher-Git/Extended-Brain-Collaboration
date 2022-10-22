@@ -12,9 +12,9 @@ Please join the [Extended Brain Server](https://discord.gg/KqMVXkwSfx) to discus
 
 There are 2 ways to contribute:
 1. Reach out to [Danny Hatcher](https://twitter.com/DannyHatcher) if you have a sync account, so you can be added to the vault.
-2. Join the GitHub repository.
+2. Join the [GitHub Repository](https://github.com/DannyHatcher-Git/Extended-Brain-Collaboration).
 
-Each contributer can create a page for their own notes and doodles for working.
+Each contributer should create a page for their contribution reference.
 
 
 

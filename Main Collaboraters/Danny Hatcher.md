@@ -7,12 +7,6 @@ Do you need sync? -> yes for quicker working...
 
 # Notes
 
-Topics to add notes on
-- notetaking/pkm
-- cognition
-- learning
-- memory
-- education
 
 [KasperZutterman/Second-Brain: A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱 (github.com)](https://github.com/KasperZutterman/Second-Brain)
 
