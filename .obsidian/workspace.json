@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Collaboraters/Danny Hatcher.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Collaboraters/Danny Hatcher.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Collaboraters/Danny Hatcher.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Collaboraters/Danny Hatcher.md"
+                "file": "README.md"
               }
             }
           }
@@ -145,6 +145,7 @@
   },
   "active": "dac899b3e2a783e1",
   "lastOpenFiles": [
+    "Main Collaboraters/Danny Hatcher.md",
     "Main Collaboraters/Sarah Bentley.md",
     "Main Collaboraters/Joel Anderson.md",
     "Main Collaboraters/Jonathan Stewart.md",
@@ -152,7 +153,6 @@
     "Notes/RQ What makes contributing to a collaborative vault worth the effort¿.md",
     "Notes/Collaborative vaults are best built around research questions.md",
     "Notes/Chat for discussing how to use this vault.md",
-    "Main Collaboraters/Danny Hatcher.md",
     "Main Collaboraters/New Person.md",
     "Templates/New Person Template.md"
   ]
