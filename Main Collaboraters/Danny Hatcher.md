@@ -16,6 +16,10 @@ Topics to add notes on
 
 [KasperZutterman/Second-Brain: A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱 (github.com)](https://github.com/KasperZutterman/Second-Brain)
 
+## Communication
+
+As a heavy discord user with a server already up and running I would suggest organizing things/communcating in there until we have a system that works for inside Obsidian... thoughts? [[Sarah Bentley]] [[Joel Anderson]] [[Jonathan Stewart]]
+
 # Questions
 - [ ] best place to communicate
 - [x] Can people join a collab vault without paying for sync themselves? #question ✅ 2022-10-21
