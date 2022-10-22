@@ -137,6 +137,20 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "f5b2b29c15baadf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69b213c321017bef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",

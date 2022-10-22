@@ -8,17 +8,14 @@ This uses the collaborative sync feature, and the Obsidian Git plugin.
 
 # Contributing
 
-Reach out to [Danny Hatcher](https://twitter.com/DannyHatcher) if you have a sync account, so you can be added to the vault.
-
 Please join the [Extended Brain Server](https://discord.gg/KqMVXkwSfx) to discuss topics and ways to move forwards.
+
+There are 2 ways to contribute:
+1. Reach out to [Danny Hatcher](https://twitter.com/DannyHatcher) if you have a sync account, so you can be added to the vault.
+2. Join the GitHub repository.
 
 Each contributer can create a page for their own notes and doodles for working.
 
-```button
-name Push to create a Personal Page
-type note(Main Collaboraters/New Person) template
-action New Person Template
-```
 
 
 
