@@ -7,5 +7,6 @@ I have only beena Obsidian user for about 4 months. My PKM + primary tool for th
 I have found [[Danny Hatcher]] videos extremely useful when it comes to the technical and theoretical uses of Obsidian. Looking forward to contribute to this project in any way possible. 
 
 ### Links
-Discord
-Twitter
+[Discord](https://discordapp.com/users/567977783372939279/) 
+[Twitter](https://twitter.com/thorms11) 
+[Website](https://tscreativ.com) 
