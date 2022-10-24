@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e07c10e8b1ea9e35",
+        "id": "15ea438c7bfb8288",
         "type": "tabs",
         "children": [
           {
-            "id": "bdd6a6c8f1acf0e5",
+            "id": "9375316fbfeaad38",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#answer/JoelAnderson",
+                "query": "tag:#question",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e253b73d8284d8b6",
@@ -152,12 +151,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bdd6a6c8f1acf0e5",
+  "active": "9375316fbfeaad38",
   "lastOpenFiles": [
-    "Main Collaboraters/Joel Anderson.md",
     "README.md",
-    "Main Collaboraters/Danny Hatcher.md",
     "Notes/Personal Knowledge Management.md",
+    "Main Collaboraters/Danny Hatcher.md",
+    "Main Collaboraters/Joel Anderson.md",
     "Main Collaboraters/Jonathan Stewart.md",
     "Main Collaboraters/Sarah Bentley.md",
     "Main Collaboraters/William Deal.md",
