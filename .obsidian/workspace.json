@@ -11,8 +11,24 @@
             "id": "9375316fbfeaad38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Main Collaboraters/Thor Schroeder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1f48f257c119bbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Collaboraters/Danny Hatcher.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main Collaboraters/Thor Schroeder.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Main Collaboraters/Thor Schroeder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Main Collaboraters/Thor Schroeder.md"
+              }
             }
           }
         ],
@@ -153,15 +173,15 @@
   },
   "active": "9375316fbfeaad38",
   "lastOpenFiles": [
-    "README.md",
-    "Notes/Personal Knowledge Management.md",
     "Main Collaboraters/Danny Hatcher.md",
+    "Main Collaboraters/Thor Schroeder.md",
+    "Templates/New Person Template.md",
+    "Templates/Article Template.md",
+    "Notes/Personal Knowledge Management.md",
+    "Main Collaboraters/Sarah Bentley.md",
+    "README.md",
     "Main Collaboraters/Joel Anderson.md",
     "Main Collaboraters/Jonathan Stewart.md",
-    "Main Collaboraters/Sarah Bentley.md",
-    "Main Collaboraters/William Deal.md",
-    "Notes/Chat for discussing how to use this vault.md",
-    "Notes/Collaborative vaults are best built around research questions.md",
-    "Templates/Article Template.md"
+    "Main Collaboraters/William Deal.md"
   ]
 }
