@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Personal Knowledge Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fc18a25a8355c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Tools on Tech.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Tools on Tech.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Tools on Tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes/Tools on Tech.md"
               }
             }
           }
@@ -159,15 +172,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "93bcd7ed3b15c205",
+  "active": "3fc18a25a8355c65",
   "lastOpenFiles": [
     "Notes/Personal Knowledge Management.md",
+    "README.md",
     "Main Collaboraters/William Deal.md",
     "Main Collaboraters/Sarah Bentley.md",
     "Main Collaboraters/Jonathan Stewart.md",
     "Main Collaboraters/Joel Anderson.md",
     "Main Collaboraters/Danny Hatcher.md",
-    "README.md",
     "Notes/Chat for discussing how to use this vault.md",
     "Notes/Collaborative vaults are best built around research questions.md",
     "Templates/Article Template.md"
