@@ -156,6 +156,9 @@
     "direction": "horizontal",
     "width": 300
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "93bcd7ed3b15c205",
   "lastOpenFiles": [
     "Notes/Personal Knowledge Management.md",
