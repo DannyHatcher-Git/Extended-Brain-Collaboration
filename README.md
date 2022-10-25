@@ -16,6 +16,8 @@ There are 2 ways to contribute:
 
 Each contributer should create a page for their contribution reference.
 
+If you have a question or issue, create a post in the discord server mentioning the appropriate people for a response.
+
 # Articles
 
 
