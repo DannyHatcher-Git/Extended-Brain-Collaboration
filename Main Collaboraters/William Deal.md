@@ -1,12 +1,17 @@
-**I updated this intro file on 2022-10-23, but now what I wrote is gone. I can re-do this page, but the more concerning issue is why this data was lost.**
+> [!NOTE]
+> Please call me "Bill" – I use my formal name, William Deal, for formal publications.
 
-**UPDATE (2022-10-25): I created a separate file titled Data Loss and it is now missing, too. Is there some issue with the settings at my end?** 
+---
 
-[[Danny Hatcher|I]] removed the file from notes as I want that folder to be fore articles notes rather than conversation points, those things are being done in the [[README#^discord|discord]].
+I am a recently retired university professor, who held a joint appointment in the departments of cognitive science and religious studies.
 
-> [!warning] PLEASE READ 
-> Change the name/title of this page.
-> Ideally an username for future reference.
+My research interests:
+	- cognitive science: cognition and culture, especially cognitive science of religion and cognition and morality (I note also that like others of you here on Internet Academics, I have a strong interest in embodied/extended cognition)
+	- religious studies: Buddhism, with a specialty in early Japanese Buddhism
 
-> [!NOTE] Share information
-> Share some information about your workflow or anything you would like to share, as experimental data.
+I have been using Obsidian for over two years. This usage has peaked my interest in personal knowledge management (PKM). One of my retrement goals is to effectively devise a PKM system that will let me experiment with short-form writing intended for a more general audience.
+
+Finally, I am happy to join you all in the effort to figure out using Obsidian as a collaborative research tool. Thanks, [[Danny Hatcher|Danny]], for setting this in motion!
+
+Twitter: [@wdeal](https://twitter.com/wdeal)
+[Website](https://williamdeal.org) (out of date, but plan to update soon)
