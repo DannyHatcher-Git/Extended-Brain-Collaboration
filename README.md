@@ -8,7 +8,7 @@ This uses the collaborative sync feature, and the Obsidian Git plugin.
 
 # Contributing
 
-Please join the [Extended Brain Server](https://discord.gg/KqMVXkwSfx) to discuss topics and ways to move forwards.
+Please join the [Extended Brain Server](https://discord.gg/KqMVXkwSfx) to discuss topics and ways to move forwards. ^discord
 
 There are 2 ways to contribute:
 1. Reach out to [Danny Hatcher](https://twitter.com/DannyHatcher) if you have a sync account, so you can be added to the vault.
