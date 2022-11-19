@@ -4,3 +4,4 @@
 I've spent quite a few years in the business space, so I "know how it works" - so a lot of what I'll probably provide in this space is business related content, because it's what I do well... I'm super excited to create business content that links to actual psychology research with a hollistic approach :)  
 
 I've spent quite a few years in the business space, so I "know how it works" - so a lot of what I'll probably provide in this space is business related content, because it's what I do well... I'm super excited to create business content that links to actual psychology research with a hollistic approach (which is always fun 😉 )
+

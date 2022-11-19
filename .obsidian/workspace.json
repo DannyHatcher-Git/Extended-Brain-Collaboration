@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Personal Knowledge Management.md",
+                "file": "Main Collaboraters/Jonathan Stewart.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Personal Knowledge Management.md",
+                "file": "Main Collaboraters/Jonathan Stewart.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Personal Knowledge Management.md",
+                "file": "Main Collaboraters/Jonathan Stewart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Personal Knowledge Management.md"
+                "file": "Main Collaboraters/Jonathan Stewart.md"
               }
             }
           }
@@ -158,11 +158,11 @@
   },
   "active": "e72159523fec843c",
   "lastOpenFiles": [
+    "Notes/Personal Knowledge Management.md",
     "Main Collaboraters/Thor Schroeder.md",
     "Main Collaboraters/William Deal.md",
     "Templates/Article Template.md",
     "Templates/New Person Template.md",
-    "Notes/Personal Knowledge Management.md",
     "Main Collaboraters/Sarah Bentley.md",
     "Main Collaboraters/Jonathan Stewart.md",
     "Main Collaboraters/Joel Anderson.md",
