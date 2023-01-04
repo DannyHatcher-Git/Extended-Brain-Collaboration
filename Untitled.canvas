@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"2aaa95140b79e463","x":-13,"y":-110,"width":250,"height":60,"type":"text","text":"That makes it quick"},
+		{"id":"e6b3a83734083ed8","x":-186,"y":-397,"width":250,"height":84,"type":"text","text":"Cool, quick add"},
+		{"id":"855b6a821e61258c","x":-672,"y":-577,"width":400,"height":400,"color":"3","type":"file","file":"Steak.md"}
+	],
+	"edges":[
+		{"id":"3c7bcac8beb4b39f","fromNode":"e6b3a83734083ed8","fromSide":"bottom","toNode":"2aaa95140b79e463","toSide":"top"}
+	]
+}

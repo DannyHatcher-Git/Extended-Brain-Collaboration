@@ -11,11 +11,15 @@
             "id": "e9cac330ff770dbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2023-01-04.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -147.25517686128617,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -103,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-04.md",
+                "file": "Steak.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-01-04.md",
+                "file": "Steak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01-04.md"
+                "file": "Steak.md"
               }
             }
           }
@@ -169,6 +173,8 @@
   },
   "active": "e9cac330ff770dbc",
   "lastOpenFiles": [
+    "Steak.md",
+    "2023-01-04.md",
     "Notes/Personal Knowledge Management.md",
     "Notes/Tools on Tech.md",
     "README.md",
@@ -176,8 +182,6 @@
     "Main Collaboraters/Sarah Bentley.md",
     "Main Collaboraters/Jonathan Stewart.md",
     "Main Collaboraters/Joel Anderson.md",
-    "Main Collaboraters/Danny Hatcher.md",
-    "Notes/Chat for discussing how to use this vault.md",
-    "Notes/Collaborative vaults are best built around research questions.md"
+    "Main Collaboraters/Danny Hatcher.md"
   ]
 }
