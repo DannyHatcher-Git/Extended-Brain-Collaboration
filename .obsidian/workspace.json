@@ -11,15 +11,11 @@
             "id": "e9cac330ff770dbc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -147.25517686128617,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "2023-01-04.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#answer/JoelAnderson",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e253b73d8284d8b6",
@@ -107,9 +104,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steak.md",
-                "collapseAll": true,
-                "extraContext": false,
+                "file": "2023-01-04.md",
+                "collapseAll": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -124,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steak.md",
+                "file": "2023-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,12 +133,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steak.md"
+                "file": "2023-01-04.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "f5b2b29c15baadf2",
@@ -175,13 +171,13 @@
   "lastOpenFiles": [
     "Steak.md",
     "2023-01-04.md",
+    "Untitled.canvas",
     "Notes/Personal Knowledge Management.md",
     "Notes/Tools on Tech.md",
     "README.md",
     "Main Collaboraters/William Deal.md",
     "Main Collaboraters/Sarah Bentley.md",
     "Main Collaboraters/Jonathan Stewart.md",
-    "Main Collaboraters/Joel Anderson.md",
-    "Main Collaboraters/Danny Hatcher.md"
+    "Main Collaboraters/Joel Anderson.md"
   ]
 }

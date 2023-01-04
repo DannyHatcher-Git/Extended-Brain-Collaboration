@@ -1,10 +1,14 @@
 {
 	"nodes":[
-		{"id":"2aaa95140b79e463","x":-13,"y":-110,"width":250,"height":60,"type":"text","text":"That makes it quick"},
-		{"id":"e6b3a83734083ed8","x":-186,"y":-397,"width":250,"height":84,"type":"text","text":"Cool, quick add"},
-		{"id":"855b6a821e61258c","x":-672,"y":-577,"width":400,"height":400,"color":"3","type":"file","file":"Steak.md"}
+		{"id":"855b6a821e61258c","x":-672,"y":-577,"width":400,"height":400,"color":"3","type":"file","file":"Steak.md"},
+		{"id":"e6b3a83734083ed8","x":-13,"y":-577,"width":250,"height":84,"type":"text","text":"Cool, quick add"},
+		{"id":"2aaa95140b79e463","x":-13,"y":-377,"width":250,"height":60,"type":"text","text":"That makes it quick"},
+		{"id":"ab31a5cf46265b48","x":112,"y":-97,"width":250,"height":165,"type":"text","text":"Much easier then LogSeq to arrange and add notes. Way faster as well"},
+		{"id":"6200a60fc7e758e5","x":-472,"y":-22,"width":400,"height":180,"type":"file","file":"Pasted image 20230104135323.png"}
 	],
 	"edges":[
-		{"id":"3c7bcac8beb4b39f","fromNode":"e6b3a83734083ed8","fromSide":"bottom","toNode":"2aaa95140b79e463","toSide":"top"}
+		{"id":"3c7bcac8beb4b39f","fromNode":"e6b3a83734083ed8","fromSide":"bottom","toNode":"2aaa95140b79e463","toSide":"top"},
+		{"id":"66d030da691a0825","fromNode":"855b6a821e61258c","fromSide":"right","toNode":"e6b3a83734083ed8","toSide":"left"},
+		{"id":"f2d2f0dddcb69b7f","fromNode":"855b6a821e61258c","fromSide":"bottom","toNode":"6200a60fc7e758e5","toSide":"left"}
 	]
 }
